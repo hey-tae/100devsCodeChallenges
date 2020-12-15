@@ -1,0 +1,42 @@
+
+
+body{
+    font-family: 'Arvo', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    height: 100vh;
+}
+
+
+h1{
+    font-size: 50px;
+    
+}
+
+.inputTitle {
+    font-size: 20px;
+    
+
+}
+
+.inputText { 
+    margin: 5px;
+    padding: 7px 24px;
+    text-align: center;
+
+
+}
+
+.btn {
+    margin: 5px;
+    font-size: 15px;
+    padding: 5px;
+    background-color: transparent;
+}
+
+#placeForOutput {
+    color: red;
+}
