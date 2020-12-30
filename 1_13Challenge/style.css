@@ -1,0 +1,15 @@
+/* *{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+} */
+
+body{
+    text-align: center;
+    margin: 250px;
+}
+
+span{
+    text-decoration: underline;
+}
